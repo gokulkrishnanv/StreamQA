@@ -6,4 +6,3 @@ python-dotenv
 langchain_google_genai
 streamlit
 langchain-core
-os
